@@ -4,25 +4,25 @@ A real-time multilingual language translation application developed using Python
 
 **Features**
 
-Supports multiple language translations
-Simple and user-friendly GUI
-Real-time text translation
-Fast and accurate output generation
-Easy language selection
+1. Supports multiple language translations
+2. Simple and user-friendly GUI
+3. Real-time text translation
+4. Fast and accurate output generation
+5. Easy language selection
 
 **Technologies Used**
 
-Python
-Tkinter
-Deep Translator
-Git & GitHub
+* Python
+* Tkinter
+* Deep Translator
+* Git & GitHub
 
 **How It Works**
 
-Enter the text to translate
-Select source and target languages
-Click the translate button
-View the translated output instantly
+* Enter the text to translate
+* Select source and target languages
+* Click the translate button
+* View the translated output instantly
 
 **Project Goal**
 
